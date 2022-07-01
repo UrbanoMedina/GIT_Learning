@@ -1,4 +1,4 @@
 This a remote file that I am adding.
-
+Modification made locally
 MOD_MADE_ONLINE
 
